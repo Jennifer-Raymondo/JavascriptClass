@@ -117,3 +117,4 @@ console.log(typeof numToString); // string
 
 console.log(boolToString); // "true"
 console.log(typeof boolToString); // string
+
