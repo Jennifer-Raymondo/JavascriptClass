@@ -133,17 +133,19 @@
 // // let calculateUnitPrice
 
 
-// // let order = {
-// //     unitPrice: 3000,
-// //     quantit: 3,
-// // calculateSubTotal: function(){
-// //     return this. unitPrice * this. quantity
-// // }
-// // }
-// // order.unitPrice
-// // order.quantity
-// // order.calculateSubTotal()
+let order = {
+    unitPrice: 3000,
+    quantit: 3,
+calculateSubTotal: function(){
+    return this. unitPrice * this. quantit
+}
+}
+console.log(order.unitPrice)
+order.quantit
+order.calculateSubTotal()
 
+let car = 2
+console.log(car)
 
 // // let car = {
 // //     name: 'Rangerover',

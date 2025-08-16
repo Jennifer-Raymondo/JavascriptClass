@@ -135,3 +135,17 @@ switch(true){
 
 //document object model a way of handling html css and js
 //
+
+
+
+
+
+
+//tenary conditions
+//condition
+//? valueIftrue
+//:valueIffalse
+
+let stock = 5
+let message = stock>0 ? "in stock": "out of stock!";
+console.log (message);
