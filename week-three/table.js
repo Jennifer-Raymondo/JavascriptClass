@@ -24,3 +24,4 @@ document.getElementById('downloadPdf').addEventListener('click', () => {
 
       XLSX.writeFile(wb, 'Suppliers_Report.xlsx');
     })
+    .
