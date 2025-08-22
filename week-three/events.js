@@ -1,3 +1,6 @@
+
+
+
 //What are events? Is a triggered action by a user or browser which can result into signals, notifications e.t.c.
 
 //Key words used in events

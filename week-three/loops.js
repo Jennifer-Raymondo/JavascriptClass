@@ -14,27 +14,27 @@
 // while, do while
 
 
-//  const products = ['chair', 'table', 'cupbord', 'wardrobe' ];
-// //for fixed repeatitions, loop through the code
-// for (i=0; i<products.length; i++){
-//     console.log(products[i]);
-//     //console.log(`item ${i+1}: ${products[i]}`);
-// }
+ const products = ['chair', 'table', 'cupbord', 'wardrobe' ];
+//for fixed repeatitions, loop through the code
+for (i=0; i<products.length; i++){
+    // console.log(products[i]);
+    console.log(`item ${i+1}: ${products[i]}`);
+}
 
 
 
 //while (condition){code if condition is true ; increment/decrement}
 
 
-// let stock = 20
-// while (stock>0){
-//     console.log (`selling item -- stock left is ${stock}`);
-// stock--; 
-// }
+let stock = 20
+while (stock>0){
+    console.log (`selling item -- stock left is ${stock}`);
+stock--; 
+}
 
 
-// let order;
-// let totalStock = 1000
+let order;
+let totalStock = 1000
 
 
 // do{
@@ -46,15 +46,15 @@
 
 // }
 
-// let payment;
-// let totalDue = 500000;
+let payment;
+let totalDue = 500000;
 
 
-// do{
-//     payment = Number(prompt(`enter order (available stock is ${totalStock}):`));
-// }while (payment > totalDue);
+do{
+    payment = Number(prompt(`enter order (available stock is ${totalStock}):`));
+}while (payment < totalDue);
     
-// alert (`your payment has been recieved`)
+alert (`your payment has been recieved`)
 
 
 
