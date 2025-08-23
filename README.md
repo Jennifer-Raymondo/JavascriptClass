@@ -12,7 +12,26 @@ Variables & Constants
 var, let, and const differences
 Naming conventions (camelCase)
 Data Types
+Introduction to functions
 Strings, Numbers, Booleans, Null, Undefined, Objects, Arrays
+comments
+
+
+
+Week 2: FUNCTIONS
+
+Function declarations vs expressions
+conditions
+Date
+Parameters & return values
+Default parameters
+Arrow Functions
+Template Literals
+Backticks (`)
+String interpolation (${variable})
+Multi-line strings
+Extracting values from arrays & objects
+Collecting function arguments
 Operators
 Arithmetic (+, -, *, /, %)
 Assignment (=, +=, -=)
@@ -26,58 +45,33 @@ for, while, do...while
 for...of (arrays) and for...in (objects)
 
 
-Week 2: FUNCTIONS
-
-Functions
-Function declarations vs expressions
-Parameters & return values
-Default parameters
-Arrow Functions
-Shorter syntax
-Differences in this binding
-Template Literals
-Backticks (`)
-String interpolation (${variable})
-Multi-line strings
-Destructuring Assignment
-Extracting values from arrays & objects
-Collecting function arguments
-Default vs named exports
 
 
-🗓 Week 3: Objects, DOM, and Asynchronous JavaScript
-
-Objects
+ Week 3:  DOM, AND ASYCHRONOUS JAVASCRIPT
+Events
+forms and table
 Properties & methods
-this keyword
 DOM Manipulation
 Selecting elements (getElementById, querySelector)
-loops
-Adding/removing elements
 Event listeners
 Working with structured data
 forms annd tables
 
 
-🗓 Week 4: Object-Oriented Programming (OOP) with Classes
+ Week 4: OBJECT ORIENTED PROGRAMING (OOP) WITH CLASSES
 
 Introduction to OOP
 Classes & Objects
-Fields (attributes) and Methods (behaviors)
 Encapsulation
-Bundling data and functions together
 Inheritance
-Extending classes using extends and super
 Polymorphism
-Method overriding
 Abstraction
-Hiding complexity, exposing only what is necessary
+Hiding complexity, exposing only what is necessar
 ES5 vs ES6 OOP
-Constructor functions + prototypes vs class syntax
+Constructor functions and  prototypes vs class syntax
 Static Methods
-Writing asynchronous code in a cleaner way
-Methods that belong to the class itself, not instances
 Factory functions vs constructor functions
+Introduction to asynchronous programming
 JSON
 Fetch API
 GET & POST requests
